@@ -3,7 +3,7 @@
 # Step 1:
 Note down the instance key filename and dns.
 # Step 2:
-Connect to the "Support" server through vnc and type ```bash sudo bash Tc.sh```.
+Connect to the "Support" server through vnc and type ```sudo bash Tc.sh```.
 # Step 3:
 After the options are displayed select option *00* and press enter.
 # Step 4:
@@ -22,4 +22,4 @@ Click on activities and then type *settings*. After opening settings click on *p
 *_This step is very important_*
 
 # Step 9: 
-Close settings and then click on activities and type *terminal*, after opening terminal type *sudo bash Tc.sh*, then type *4* and press enter, finally type the *instance name* and press enter. Disconnect and enjoy the ether earned.
+Close settings and then click on activities and type *terminal*, after opening terminal type ```sudo bash Tc.sh```, then type *4* and press enter, finally type the *instance name* and press enter. Disconnect and enjoy the ether earned.
