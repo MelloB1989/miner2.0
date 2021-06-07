@@ -3,7 +3,7 @@
 # Step 1:
 Note down the instance key filename and dns.
 # Step 2:
-Connect to the "Support" server through vnc and type *sudo bash Tc.sh*.
+Connect to the "Support" server through vnc and type ```bash sudo bash Tc.sh```.
 # Step 3:
 After the options are displayed select option *00* and press enter.
 # Step 4:
