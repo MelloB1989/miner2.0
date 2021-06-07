@@ -5,7 +5,7 @@ Note down the instance key filename and dns.
 # Step 2:
 Connect to the "Support" server through vnc and type ```sudo bash Tc.sh```.
 # Step 3:
-After the options are displayed select option *00* and press enter.
+After the options are displayed select option ```00``` and press enter.
 # Step 4:
 Enter the ```instance key```, ```dns``` and ```instance name```. After that type ```yes``` when asked *yes/no*.
 # Step 5: 
