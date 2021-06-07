@@ -8,7 +8,8 @@ Connect to the "Support" server through vnc and type *sudo bash Tc.sh*.
 After the options are displayed select option *00* and press enter.
 # Step 4:
 Enter the instance key, dns and instance name. After that type *yes* when asked *yes/no*.
-# Step 5: Wait for few minutes for the install to complete and then when you are asked for the password enter *mellob1989* and press enter. _Do this step twice_. After entering the password type *n* and press enter.
+# Step 5: 
+Wait for few minutes for the install to complete and then when you are asked for the password enter *mellob1989* and press enter. _Do this step twice_. After entering the password type *n* and press enter.
 
 # Step 6:
 After the install is complete disconnect with the server and the click on *i* button on the Install Vnc Server and change the dns to the server you want start mining.
